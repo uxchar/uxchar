@@ -58,7 +58,7 @@
 ### 🎯 Goals for 2024:
 
 🤝 Contribute to a small open-source project
-⚙️ Improve animation skills
+⚙️ Learn how to tinker with Rasberry Pi
 
 ---
 
