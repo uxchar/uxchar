@@ -70,4 +70,4 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uxchar&layout=compact&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uxchar&layout=compact&theme=radical)
