@@ -50,16 +50,20 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
 
 ### 🦾 Upgrading My Firmware
 
-- **Game Development**
-- **Blockchain Technology**
-- **Augmented Reality (AR) & Virtual Reality (VR)**
+<p>
+  <img src="https://img.shields.io/badge/Game%20Development-in%20progress-yellow?style=flat-square" alt="Game Development"/>
+  <img src="https://img.shields.io/badge/Blockchain%20Technology-in%20progress-blue?style=flat-square" alt="Blockchain Technology"/>
+  <img src="https://img.shields.io/badge/AR%20%26%20VR-in%20progress-purple?style=flat-square" alt="AR & VR"/>
+</p>
 
 ---
 
 ### 🎯 Goals for 2024:
 
-- **Contribute to a small open-source project**
-- **Learn how to tinker with Rasberry Pi**
+<p>
+  <img src="https://img.shields.io/badge/Contribute%20to%20open--source-success-green?style=flat-square" alt="Contribute to a small open-source project"/>
+  <img src="https://img.shields.io/badge/Learn%20Raspberry%20Pi-in%20progress-orange?style=flat-square" alt="Learn Raspberry Pi"/>
+</p>
 
 ---
 
