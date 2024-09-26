@@ -4,11 +4,9 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="700"/>
 </p>
 
----
 # 👨🏾‍💻 Hey, I am **Chauncey**
 As developer from **Louisville, KY** . I specialize in crafting **Web Applications** 🕸️. Initially, I was drawn to front-end before recently making the decision in challenging myself to build & understand the full-stack development process. Aside from coding, I enjoy weightlifting, music production, design, finding the best tea/coffee, and keeping up with the world of innovative tech. Feel free to check out some of my projects.
 
----
 
 ### 🛠️ Skills & Tools
 
@@ -46,8 +44,6 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
----
-
 ### 🦾 Upgrading My Firmware
 
 <p>
@@ -56,7 +52,6 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
   <img src="https://img.shields.io/badge/AR%20%26%20VR-in%20progress-purple?style=flat-square" alt="AR & VR"/>
 </p>
 
----
 
 ### 🎯 Goals for 2024:
 
@@ -65,14 +60,10 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
   <img src="https://img.shields.io/badge/Learn%20Raspberry%20Pi-in%20progress-orange?style=flat-square" alt="Learn Raspberry Pi"/>
 </p>
 
----
-
 ### 📡  Let's Connect:
 
 <p>
   <a href="https://www.linkedin.com/in/chauncey-harlan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
----
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uxchar&layout=compact&theme=radical)
