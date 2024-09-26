@@ -61,7 +61,7 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
 ### 🎯 Goals for 2024:
 
 <p>
-  <img src="https://img.shields.io/badge/Contribute%20to%20open--source-success-green?style=flat-square" alt="Contribute to a small open-source project"/>
+  <img src="https://img.shields.io/badge/Contribute%20to%20open--source-in%20progress-orange?style=flat-square" alt="Contribute to a small open-source project"/>
   <img src="https://img.shields.io/badge/Learn%20Raspberry%20Pi-in%20progress-orange?style=flat-square" alt="Learn Raspberry Pi"/>
 </p>
 
