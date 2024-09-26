@@ -50,16 +50,16 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
 
 ### 🦾 Upgrading My Firmware
 
-**Game Development**
-**Blockchain Technology**
-**Augmented Reality (AR) & Virtual Reality (VR)**
+- **Game Development**
+- **Blockchain Technology**
+- **Augmented Reality (AR) & Virtual Reality (VR)**
 
 ---
 
 ### 🎯 Goals for 2024:
 
-**Contribute to a small open-source project**
-**Learn how to tinker with Rasberry Pi**
+- **Contribute to a small open-source project**
+- **Learn how to tinker with Rasberry Pi**
 
 ---
 
