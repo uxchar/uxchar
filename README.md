@@ -6,7 +6,7 @@
 ---
 # 👨🏾‍💻 Hey, I am **Chauncey**
 
- As developer from **Louisville, KY** . I specialize in crafting **Web Applications** 🕸️. Aside from coding, I enjoy weightlifting, music production, and keeping up with the world of innovative tech.
+As developer from **Louisville, KY** . I specialize in crafting **Web Applications** 🕸️. Aside from coding, I enjoy weightlifting, music production, and keeping up with the world of innovative tech.
 
 ---
 
