@@ -1,9 +1,7 @@
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="greetings gif" width="600" height="300"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" alt="cyberpunk city gif" width="600"/>
 </p>
-
 
 ---
 # 👨🏾‍💻 Hey, I am **Chauncey**
@@ -11,9 +9,6 @@
  As developer from **Louisville, KY** . I specialize in crafting **Web Applications** 🕸️. Aside from coding, I enjoy weightlifting, music production, and keeping up with the world of innovative tech.
 
 ---
-<p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" alt="cyberpunk city gif" width="600"/>
-</p>
 
 ### 🛠️ Skills & Tools:
 
