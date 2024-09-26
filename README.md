@@ -1,17 +1,17 @@
 
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMTI2NTYsIm5iZiI6MTcyNzMxMjM1NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDAwNTkxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNDljYTBkZjUxMDUxZTQ2YmM2NzYwOTBlMjI2NzYxZmYwNGYzNDk4N2ZmNTE5ZmY5MTA0OTk4MGE4NzBmZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VxkpMS-HysVGoZykUsLXgo-DVP3BubI8jdGW1MIMbFM" alt="greetings gif" width="600"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMTI2NTYsIm5iZiI6MTcyNzMxMjM1NiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDAwNTkxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNDljYTBkZjUxMDUxZTQ2YmM2NzYwOTBlMjI2NzYxZmYwNGYzNDk4N2ZmNTE5ZmY5MTA0OTk4MGE4NzBmZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VxkpMS-HysVGoZykUsLXgo-DVP3BubI8jdGW1MIMbFM" alt="greetings gif" width="600" height="300"/>
 </p>
 
-<p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" alt="cyberpunk city gif" width="600"/>
-</p>
 
 ---
 👨🏾‍💻 Hey, I am **Chauncey Harlan**, a  developer from **Louisville, KY** . I specialize in crafting **Web Applications** 🕸️. Aside from coding, I enjoy weightlifting, music production, and keeping up with the world of innovative tech.
 
 ---
+<p align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513" alt="cyberpunk city gif" width="600"/>
+</p>
 
 ### 🛠️ Skills & Tools:
 
