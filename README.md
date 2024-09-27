@@ -37,13 +37,13 @@ As developer from **Louisville, KY** . I specialize in crafting **Web Applicatio
 
 ---
 
-### Goals for 2024:
+### Goals for 2024
 
 - **Contribute to a small open-source project**
 - **Learn how to tinker with Rasberry Pi**
 
 
-### Let's Connect:
+### Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/chauncey-harlan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
