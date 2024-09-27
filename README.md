@@ -54,7 +54,7 @@ As developer from **Louisville, KY**. I specialize in crafting **Web Application
 </div>
 
 <div>
-  <img src="https://cdna.artstation.com/p/assets/images/images/047/142/060/original/darius-anton-coffee-01.gif?1646856903" width="75%"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/047/142/060/original/darius-anton-coffee-01.gif?1646856903" width="40%"/>
 </div>
 
 
