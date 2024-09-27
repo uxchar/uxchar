@@ -4,7 +4,9 @@
 
 
 
-# Hey, Im **Chauncey**
+<div align="center">
+  <h1 style="font-size: 48px;">Hey, I'm <strong>Chauncey</strong></h1>
+</div>
 As developer from **Louisville, KY**. I specialize in crafting **Web Applications**. Initially, I was drawn to front-end before recently making the decision in challenging myself to build & understand the full-stack development process. Aside from coding, I enjoy weightlifting, music production, design, finding the best tea/coffee, and keeping up with the world of innovative tech. Feel free to check out some of my projects.
 
 
