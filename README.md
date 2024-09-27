@@ -5,11 +5,12 @@
 <div align="center">
   <h1 style="font-size: 48px;">Hey, I'm <strong>Chauncey</strong></h1>
 </div>
-As developer from **Louisville, KY**. I specialize in crafting **Web Applications**. Initially, I was drawn to front-end before recently making the decision in challenging myself to build & understand the full-stack development process. Aside from coding, I enjoy weightlifting, music production, design, finding the best tea/coffee, and keeping up with the world of innovative tech. Feel free to check out some of my projects.
+<p>
+As developer from <strong>Louisville, KY</strong>. I specialize in crafting <strong>Web Applications</strong>. Initially, I was drawn to front-end before recently making the decision in challenging myself to build & understand the full-stack development process. Aside from coding, I enjoy weightlifting, music production, design, finding the best tea/coffee, and keeping up with the world of innovative tech. Feel free to check out some of my projects.
+</p>
 
 
-
-## Skills & Tools
+<h2>Skills & Tools</h2> 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -28,7 +29,7 @@ As developer from **Louisville, KY**. I specialize in crafting **Web Application
 </p>
 
 ---
-## Upgrading My Firmware
+<h2>Upgrading My Firmware</h2> 
 
 <p>
   <img src="https://img.shields.io/badge/Game%20Development-in%20progress-yellow?style=for-the-badge" alt="Game Development"/>
@@ -38,7 +39,7 @@ As developer from **Louisville, KY**. I specialize in crafting **Web Application
 
 ---
 
-## Goals for 2024
+<h2>Goals for 2024</h2>  
 
 <p>
   <img src="https://img.shields.io/badge/Contribute%20to%20open--source-in%20progress-orange?style=for-the-badge" alt="Contribute to a small open-source project"/>
@@ -47,7 +48,7 @@ As developer from **Louisville, KY**. I specialize in crafting **Web Application
 
 ---
 
-## Let's Connect
+<h2>Let's Connect</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/chauncey-harlan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
