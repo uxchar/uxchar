@@ -9,7 +9,7 @@
 As developer from **Louisville, KY** , I specialize in crafting **Web Applications** 🕸️. Initially, I was drawn to front-end before recently making the decision in challenging myself to build & understand the full-stack development process. Aside from coding, I enjoy weightlifting, music production, design, finding the best tea/coffee, and keeping up with the world of innovative tech. Feel free to check out some of my projects.
 
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
