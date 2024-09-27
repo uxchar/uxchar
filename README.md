@@ -54,6 +54,8 @@ As developer from <strong>Louisville, KY</strong>. I specialize in crafting <str
   <a href="https://www.linkedin.com/in/chauncey-harlan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
+[![Email](https://img.shields.io/badge/Email-uxchar%40outlook.com-blue?style=flat&logo=microsoft-outlook)](mailto:uxchar@outlook.com)
+
 <div>
   <img src="https://cdna.artstation.com/p/assets/images/images/047/142/060/original/darius-anton-coffee-01.gif?1646856903" width="75%"/>
 </div>
