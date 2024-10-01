@@ -37,7 +37,6 @@ As developer from <strong>Louisville, KY</strong>. I specialize in crafting <str
 
 <p>
   <img src="https://img.shields.io/badge/Game%20Development-in%20progress-yellow?style=for-the-badge" alt="Game Development"/>
-  <img src="https://img.shields.io/badge/Blockchain%20Technology-in%20progress-blue?style=for-the-badge" alt="Blockchain Technology"/>
   <img src="https://img.shields.io/badge/AR%20%26%20VR-in%20progress-purple?style=for-the-badge" alt="AR & VR"/>
 </p>
 
