@@ -37,7 +37,6 @@ As developer from <strong>Louisville, KY</strong>. I specialize in crafting <str
 
 <p>
   <img src="https://img.shields.io/badge/Game%20Development-in%20progress-yellow?style=for-the-badge" alt="Game Development"/>
-  <img src="https://img.shields.io/badge/AR%20%26%20VR-in%20progress-purple?style=for-the-badge" alt="AR & VR"/>
 </p>
 
 ---
@@ -45,7 +44,6 @@ As developer from <strong>Louisville, KY</strong>. I specialize in crafting <str
 <h2>Goals for 2024</h2>  
 
 <p>
-  <img src="https://img.shields.io/badge/Contribute%20to%20open--source-in%20progress-orange?style=for-the-badge" alt="Contribute to a small open-source project"/>
   <img src="https://img.shields.io/badge/Learn%20Raspberry%20Pi-in%20progress-orange?style=for-the-badge" alt="Learn Raspberry Pi"/>
 </p>
 
